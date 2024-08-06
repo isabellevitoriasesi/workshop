@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="891eeea2-6419-4cf9-91f8-29171d2dfdb1" name="Changes" comment="atualizando" />
+    <list default="true" id="891eeea2-6419-4cf9-91f8-29171d2dfdb1" name="Changes" comment="atualizandoo">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +27,9 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -122,13 +127,22 @@
       <option name="project" value="LOCAL" />
       <updated>1722970742991</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="atualizandoo">
+      <option name="closed" value="true" />
+      <created>1722970899334</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1722970899334</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="atualizar" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
     <MESSAGE value="atualizando" />
-    <option name="LAST_COMMIT_MESSAGE" value="atualizando" />
+    <MESSAGE value="atualizandoo" />
+    <option name="LAST_COMMIT_MESSAGE" value="atualizandoo" />
   </component>
 </project>
